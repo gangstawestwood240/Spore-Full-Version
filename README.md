@@ -248,4 +248,4 @@ This repository serves as the official landing page for Spore. The software is d
 **Get the most recent version of Spore today!**
 
 ---
-**Last updated:** 2026-09-10 22:23:33 UTC
+**Last updated:** 2026-09-11 00:53:30 UTC
